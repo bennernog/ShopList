@@ -1,0 +1,79 @@
+﻿
+Jupiler
+Stella Artois
+Rodenbach
+Palm
+Hoegaarden
+Leffe Donkere
+Leffe Blonde
+Kriek Liefmans
+Boon Kriek
+Brugge Blond
+Brugge Tripel
+Palm Royal
+Guinness
+La Chouffe
+Mort-Subite Kriek
+Mort-Subite Geuze
+Mort-Subite Frambozen
+Boon Framboise
+Boon Oude Kriek
+Boon Oude Geueze
+Boon Geueze Mariage Parfait
+Liefmans Kriek
+Liefmans Goudenband
+Palm Dobbel
+Hoegaarden Speciale
+Carlsberg
+Tuborg
+Ciney Bruin
+Ciney Blond
+Vedett
+Vedett White
+Hapkin
+Duvel
+Hoegaarden Grand Cru
+Hoegaarden Verboden Vrucht
+Gordon Scotch
+Gordon Finest Gold
+Guinness Draught
+Guinness Stout
+Tripel Karmeliet
+Kwak
+Brugse Tripel
+Delirium Tremens
+La Guillotine
+Kasteelbier Blond
+Kasteelbier Bruin
+Grimbergen Blond
+Grimbergen Dubbel
+Grimbergen Tripel
+Leffe Tripel
+Leffe Radieuse
+Leffe 9°
+Corsendonck Pater
+Corsendonck Agnus
+Orval
+Chimay rood
+Chimay tripel
+Chimay blauw
+Rochefort 6
+Rochefort 8
+Rochefort 10
+Westmalle dubbel
+Westmalle tripel
+Achel blond
+Achel bruin
+La Trappe blond
+La Trappe dubbel
+La Trappe tripel
+La Trappequadruppel
+West-Vleteren
+St.Bernardus pater 6
+St.Bernardus prior 8
+St.Bernardus abt 12
+St.Bernardus tripel
+Watou triple
+Corona
+Desperado
+Judas

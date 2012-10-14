@@ -1,0 +1,37 @@
+﻿
+Steak
+Worst
+Chipolatta
+Merguez
+Varkenslapje
+Varkenshaas
+Gehakt
+Hamburger
+Beefburger
+Cordon blue
+Schnitzel
+Chateau Briand
+Pens - wit
+Pens - Zwart
+Kip - wit
+Kip - volledig
+Kip - bout
+Kip - vleugel
+Stoofvlees
+Gyros
+Shoarma
+Pittavlees
+Boomstammetje
+Paardenvlees
+Kalkoen
+Brochette
+Balletjes
+Lamsgehakt
+Spiering
+Kottelet
+Lamsoester
+Rosbief
+VarkensGebraad
+Orlof gebraad
+Ribbetjes
+Spek

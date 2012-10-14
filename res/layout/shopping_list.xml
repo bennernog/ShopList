@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/background" 
+    android:weightSum="100" 
+    android:padding="5dip" 
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent" 
+        android:paddingLeft="2dip" 
+        android:paddingRight="2dip" 
+        android:weightSum="90" 
+        android:layout_weight="87" >
+
+        <ImageButton
+            android:id="@+id/btnAddItem"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:background="@drawable/border_b" 
+	        android:layout_marginLeft="1dip" 
+	        android:layout_marginRight="1dip" 
+            android:layout_weight="30" 
+            android:src="@drawable/plus" 
+            android:scaleType="centerInside"/>
+
+        <ImageButton
+            android:id="@+id/btnDeleteItem"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="30"
+            android:layout_marginLeft="1dip" 
+	        android:layout_marginRight="1dip"
+            android:src="@drawable/delete_item" 
+            android:background="@drawable/border_b" 
+            android:scaleType="centerInside"/>
+
+        <ImageButton
+            android:id="@+id/btnNEWList"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_weight="30"
+            android:src="@drawable/new_list" 
+	        android:layout_marginLeft="1dip" 
+	        android:layout_marginRight="1dip" 
+            android:background="@drawable/border_b" 
+            android:scaleType="centerInside"/>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="vertical" 
+        android:layout_weight="13" 
+        android:layout_marginBottom="5dip" 
+        android:padding="2dip" 
+        android:id="@+id/LLshopList">
+
+        <ScrollView
+            android:id="@+id/svItemList"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <LinearLayout
+                android:id="@+id/llItemList"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"
+                android:layout_marginLeft="10dip"
+                android:layout_marginRight="5dip"
+                android:orientation="vertical"
+                android:paddingLeft="15dip"
+                android:paddingTop="20dip" >
+
+            </LinearLayout>
+        </ScrollView>
+
+    </LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ShopList</string>
+    <string name="home_shop_list">Druk \'ShopList\' om je huidige lijst te bekijken of om deze te bewerken.</string>
+    <string name="home_my_lists">Druk \'My Lists\' om je reeds opgeslagen lijsten te bekijken.</string>
+    <string name="home_new_list">Druk \'New List\' om een nieuwe lijst te maken</string>
+    <string name="info">Info</string>
+    <string name="shopping_plus">Druk deze knop een item toe te voegen aan de lijst.</string>
+    <string name="shopping_x">Druk deze knop om items van de lijst te verwijderen.</string>
+    <string name="shopping_list">Druk deze knop om reeds bestaande lijst te openen.</string>
+    <string name="shoppin_scratch">wrijf over een woord om te doorstrepen, wrijf in de andere richting om ongedaan te maken.</string>
+    <string name="back">Terug</string>
+    <string name="nieuw">Nieuw Spel</string>
+    <string name="help">Hulp</string>
+    <string name="shuffle">Mix letters</string>
+    <string name="hint_et">Raad het woord</string>
+    
+    
+
+</resources>

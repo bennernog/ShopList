@@ -1,0 +1,36 @@
+﻿
+Coca-Cola
+Coca-Cola Light
+Coca-Cola Zero
+Sprite
+Sprite Zero
+Fanta
+Fanta Zero
+Pepsi
+Pepsi Max
+Aquarius
+Aquarius Zero
+Limonade
+Appelsap
+Appelsiensap
+Vruchtensap
+Druivensap
+Oasis
+AA Drink
+Appeltise
+Canada dry
+Chaudfontaine Limon
+Chaudfontaine Citron
+Chaudfontaine Orange
+Chaudfontaine Grenadine
+Gini
+Ice Tea
+Ice Tea Light
+Ice Tea Zero
+Orangina
+Minute Maid
+Red Bull
+Schweppes Agrum
+Schweppes Bitter Lemon
+Schweppes Soda
+Schweppes Tonic

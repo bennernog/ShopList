@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="listStyle">
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="Theme.NoTitleBar.Dialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:layout_height">fill_parent</item>
+    </style>
+    <style name="home_tv_style">
+        <item name="android:gravity">center|top</item>
+        <item name="android:padding">25dip</item>
+        <item name="android:textColor">@color/Dark_Blue</item>
+    </style>
+
+</resources>
